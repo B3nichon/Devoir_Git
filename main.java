@@ -12,7 +12,10 @@ public class main
 	   System.out.println("d = " );
 	   System.out.println(d);
 
-      // Prints "Hello, World" in the terminal window.
+
+
+      // Prints "Hello, World" in the terminal window
+      System.out.println("modif varibles en argument")
       System.out.println("Hello, World");
    }
 }
