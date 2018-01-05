@@ -19,5 +19,9 @@ public class main
       System.out.println("creation de methode statique qui additionne la case 0");
       System.out.println("creation de deux tableaux de long");
       System.out.println("passer variables fonction addition");
+      System.out.println("ecrire la classe");
+	System.out.println("ecrire la classe coordonnees");
+	System.out.println("créer une méthode statique");
+	System.out.println("deux instances de la classe coordonnees");
    }
 }
