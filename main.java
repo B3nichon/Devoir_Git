@@ -1,6 +1,21 @@
-public class HelloWorld {
+public class main
+{	
+	public static void addition (long gauche, long droite)
+	{
+		gauche = gauche + droite;
+	}
    public static void main(String[] args) {
-      // Prints "Hello, World" in the terminal window.
+	   long g = 2; 
+	   long d = 3;
+	   System.out.println("g = " );
+	   System.out.println (g);
+	   System.out.println("d = " );
+	   System.out.println(d);
+
+
+
+      // Prints "Hello, World" in the terminal window
+      System.out.println("modif varibles en argument")
       System.out.println("Hello, World");
    }
 }
