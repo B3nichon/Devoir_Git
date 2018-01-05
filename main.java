@@ -21,5 +21,6 @@ public class main
       System.out.println("passer variables fonction addition");
       System.out.println("ecrire la classe");
 	System.out.println("ecrire la classe coordonnees");
+	System.out.println("créer une méthode statique");
    }
 }
