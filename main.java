@@ -13,9 +13,9 @@ public class main
 	   System.out.println(d);
 
 
-
       // Prints "Hello, World" in the terminal window
-      System.out.println("modif varibles en argument")
+      System.out.println("modif varibles en argument");
       System.out.println("Hello, World");
+      System.out.println("creation de methode statique qui additionne la case 0");
    }
 }
