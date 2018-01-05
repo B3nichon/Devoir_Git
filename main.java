@@ -22,5 +22,6 @@ public class main
       System.out.println("ecrire la classe");
 	System.out.println("ecrire la classe coordonnees");
 	System.out.println("créer une méthode statique");
+	System.out.println("deux instances de la classe coordonnees");
    }
 }
